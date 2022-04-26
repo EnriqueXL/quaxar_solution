@@ -18,3 +18,4 @@ si te da problemas, hazlo por separado npm install npm run dev
 ## 8. Ejecuta php artisan serve y prueba el proyecto que debe funcionar.
 
 Api: http://127.0.0.1:8000/api/users
+BD: quaxar_laravel
