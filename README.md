@@ -17,5 +17,5 @@ DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE= DB_USERNAME= DB_
 si te da problemas, hazlo por separado npm install npm run dev
 ## 8. Ejecuta php artisan serve y prueba el proyecto que debe funcionar.
 
-Api: http://127.0.0.1:8000/api/users
-BD: quaxar_laravel
+### Api: http://127.0.0.1:8000/api/users
+### BD: quaxar_laravel
